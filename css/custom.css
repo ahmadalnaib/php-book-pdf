@@ -2,3 +2,40 @@ body {
     background:  #f9f9f9;
 
 }
+
+.navbar {
+   background: #Fff;
+    border-bottom: 1px solid #eee;
+
+}
+
+.banar {
+    background:linear-gradient(to right, rgba(0, 0, 0,0.8),rgba(0, 0, 0, 0.8)), url("../images/banar.jpg") no-repeat center center/cover;
+     height: 80vh;
+    color: #fff;
+    text-align: center;
+    
+}
+
+.banar .lib-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    text-align: center;
+
+}
+
+.lib-info h4{
+font-size: 3.5rem;
+font-weight: bold;
+padding: 1rem;
+}
+
+.lib-info p {
+    font-size: 2rem;
+    font-weight: bold;
+    padding: 1rem;
+    
+}
