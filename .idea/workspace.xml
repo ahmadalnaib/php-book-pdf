@@ -1,7 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b75e8682-2fd8-49c9-8e9e-7be8b8fc5a24" name="Default Changelist" comment="" />
+    <list default="true" id="b75e8682-2fd8-49c9-8e9e-7be8b8fc5a24" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dashboard/books.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/categories.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/css/bootstrap-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/edit-cat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/images/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/images/cover.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/include/connection.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/include/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/include/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/logout.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/new-book.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dashboard/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/css/bootstrap-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/images/banar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/images/book.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/images/book1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/images/book2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/images/book3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/images/book4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/images/book5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/layouts/js/jquery-3.4.1.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/book.php" beforeDir="false" afterPath="$PROJECT_DIR$/book.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap-rtl.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/banar.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/book.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/book1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/book2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/book3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/book4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/book5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inc/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/inc/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/jquery-3.4.1.min.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,12 +76,19 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ig0vs2WyH5mqoKlEfH67ik27g7" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -36,13 +109,32 @@
       <option name="presentableId" value="Default" />
       <updated>1602314164835</updated>
       <workItem from="1602314166833" duration="2118000" />
+      <workItem from="1602322761994" duration="7668000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="455" y="274" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602323955701">
+      <screen x="0" y="0" width="1504" height="1003" />
+    </state>
+    <state x="455" y="274" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1504.1003/-1920.167.1280.720@0.0.1504.1003" timestamp="1602323955701" />
     <state x="540" y="401" key="NewPhpFileDialog" timestamp="1602314195259">
       <screen x="0" y="0" width="1504" height="1003" />
     </state>

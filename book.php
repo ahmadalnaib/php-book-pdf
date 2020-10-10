@@ -9,7 +9,7 @@
                 <div class="col-md-4 ">
                     <div class="book-cover">
 
-                        <img src="images/book1.jpg" alt="">
+                        <img src="layouts/images/book1.jpg" alt="">
                     </div>
                 </div>
                 
@@ -39,7 +39,7 @@
                 <div class="related-book text-center">
                     <div class="cover">
                        <a href="#">
-                       <img src="images/book2.jpg" alt="book2">
+                       <img src="layouts/images/book2.jpg" alt="book2">
                        </a>
                     </div>
                     <div class="title">
