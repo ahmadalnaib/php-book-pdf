@@ -49,3 +49,41 @@ padding: 1rem;
     height: 250px;
     overflow: hidden;
 }
+
+
+.book-cover{
+    overflow: hidden;
+    
+}
+
+.book-cover img {
+    width: 100%;
+}
+
+
+
+
+.retated-books {
+    margin-top: 70px;
+}
+
+.retated-book{
+    margin: 20px 0;
+    background: #fff;
+    padding: 10px;
+    border: 1px solid #eee;
+}
+
+.cover {
+    overflow: hidden;
+}
+
+.cover img {
+    width: 100%;
+}
+
+.title  {
+    margin: 10px 0;
+}
+
+
